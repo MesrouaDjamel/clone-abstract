@@ -1,0 +1,7 @@
+    git init
+    git add .
+    git commit-m "initial commit"
+    git commit -m "initial commit"
+    git branch -M FrontEndMentor
+    git remote add origin git@githubcom:MesrouaDjamel/newsletter-signup-form.git
+    git push -u origin FrontEndMentor
