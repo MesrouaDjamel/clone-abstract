@@ -27,7 +27,7 @@ const DedicatedProduct = ({ title, desc }: { title: string; desc?: string }) => 
           image="/illustration3.png"
           CardTitle="Our Blog"
           CardDesc="Stories, news, and tips from behind the Artboards"
-          CardLink={{ label: "Browse Abstract's", href: "/" }}
+          CardLink={{ label: "Browse Abstract's", href: "/blog" }}
         />
       </div>
     </article>

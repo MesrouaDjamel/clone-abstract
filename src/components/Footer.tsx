@@ -8,7 +8,7 @@ const Footer = () => {
       links: [
         {
           label: "Blog",
-          href: "/",
+          href: "/blog",
         },
         {
           label: "Help Center",
@@ -33,23 +33,23 @@ const Footer = () => {
       links: [
         {
           label: "About Us",
-          href: "/",
+          href: "/about",
         },
         {
-          label: "Carrers",
-          href: "/",
+          label: "Careers",
+          href: "/careers",
         },
         {
           label: "Legal",
-          href: "/",
+          href: "/legal",
         },
         {
           label: "Privacy",
-          href: "/",
+          href: "/privacy",
         },
         {
           label: "Website Terms of Use",
-          href: "/",
+          href: "/legal/web-site-terms-of-use",
         },
       ],
     },
@@ -95,7 +95,7 @@ const Footer = () => {
           <li key={index}>
             <h1 className="text-white font-bold ">{dataFooter.title}</h1>
             <ul>
-              {dataFooter.links.map((link, index) => (
+              {dataFooter.links.map((link) => (
                 <li className="text-white" key={link.href}>
                   <Link
                     className="hover:text-white text-[#8b8e8f] text-sm"

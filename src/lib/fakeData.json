@@ -1,0 +1,2364 @@
+{
+"Cards":[
+  {
+    "id": 1,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "LaShaun Williams",
+      "href": "/author/lashaun-williams"
+    },
+    "title": "Introducing: Reporting in Abstract",
+    "desc": "We're surfacing activity data to help you better identify bottlenecks and bright spots in your design process "
+  },
+  {
+    "id": 2,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Andrea Burton",
+      "href": "/author/andrea-burton"
+    },
+    "title": "How Zendesk planted the Garden design system",
+    "desc": "The decision and organization behind Zendesk's design system."
+  },
+  {
+    "id": 3,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "David Xie",
+      "href": "/author/david-xie"
+    },
+    "title": "Layer detail enhancement for a better developer handoff experience",
+    "desc": "Hop to a symbol master from a symbol instance and always views the latest version in abstract Branches."
+  },
+  {
+    "id": 4,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "0 min",
+
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Hannah Shadrick",
+      "href": "/author/hannah-shadrick"
+    },
+    "title": "How to lead a 100% remote design team",
+    "desc": "Remote leadership requires good tools, good communication, good documentation, and plenty of empathy"
+  },
+  {
+    "id": 5,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Josh Brewer",
+      "href": "/author/josh-brewer"
+    },
+    "title": "Flawless App joins Abstract",
+    "desc": "Plus: Kelly Watkins, former Slack and GitHub marketing executive. Joins Abstract board."
+  },
+  {
+    "id": 6,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Sean Catangui",
+      "href": "/author/sean-catangui"
+    },
+    "title": "How to build and maintain an equitable design team in Abstract",
+    "desc": "You can afford a design system. Learn how to distribute the work of building a design system while gaining buy-in."
+  },
+  {
+    "id": 7,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Ben Erez",
+      "href": "/author/ben-erez"
+    },
+    "title": "Big little updates, Notifications on web",
+    "desc": "Keep calm with a bird's-eye view of your team's design work"
+  },
+  {
+    "id": 8,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Josh Brewer",
+      "href": "/author/josh-brewer"
+    },
+    "title": "Why version history is not version control",
+    "desc": "Bring order to the chaos with a Branch-based workflow."
+  },
+  {
+    "id": 9,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Ben Erez",
+      "href": "/author/ben-erez"
+    },
+    "title": "Introducing the Quick Jump and inline editing for Collections",
+    "desc": "There's a new, faster way to locate that Branch you've been looking for."
+  },
+  {
+    "id": 10,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Hannah Shadrick",
+      "href": "/author/hannah-shadrick"
+    },
+    "title": "How to bring your design files (and team) into Abstract Branches",
+    "desc": "Follow this guide to get your design files and your team into Abstract Branches."
+  },
+  {
+    "id": 11,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Alden Spence",
+      "href": "/author/alden-spence"
+    },
+    "title": "Abstract explorations: Before and after merging",
+    "desc": "A 3-minute guide to preserving and reviving your designs."
+  },
+  {
+    "id": 12,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Hannah Shadrick",
+      "href": "/author/hannah-shadrick"
+    },
+    "title": "How to pilot Abstract Branches with your design team",
+    "desc": "How to thoughtfully introduce Abstract into your design workflow. "
+  },
+  {
+    "id": 13,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Hannah Shadrick",
+      "href": "/author/hannah-shadrick"
+    },
+    "title": "How to pitch Abstract Branches to anyone",
+    "desc": "You know that Abstract Branches can be a game changer for your team's design workflow. how do you paint that same vision for everyone else? "
+  },
+  {
+    "id": 14,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Kevin Smith",
+      "href": "/author/kevin-smith"
+    },
+    "title": "Start building your dream integration with the Abstract SDK",
+    "desc": "The Abstract SDK is a JavaScript package that wraps both our web API and our desktop ClI in a unified interface."
+  },
+  {
+    "id": 15,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Andrea Burton",
+      "href": "/author/andrea-burton"
+    },
+    "title": "5 Things you didn't realize you could do with Collections ",
+    "desc": "Design Advocate Andrea Burton shares tips for using one of Branche's most versatile features"
+  },
+  {
+    "id": 16,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Ben Erez",
+      "href": "/author/ben-erez"
+    },
+    "title": "Big Little Updates: The projects Collection Gallery",
+    "desc": "No more Slack conversations to locate 'That one Collection.'"
+  },
+  {
+    "id": 17,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Andrea Burton",
+      "href": "/author/andrea-burton"
+    },
+    "title": "5 things you can do in Abstract Branches that you didn't realize",
+    "desc": "Design Advocate Andrea Burton Shares a few of her favorite ways to streamline your design workflow"
+  },
+  {
+    "id": 18,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Ben Erez",
+      "href": "/author/ben-erez"
+    },
+    "title": "Introducing: Public Sharing",
+    "desc": "It's never been easier to collaborate in Abstract"
+  },
+  {
+    "id": 19,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Josh Brewer",
+      "href": "/author/josh-brewer"
+    },
+    "title": "How open source technology inspired a modern design workflow",
+    "desc": "The value of design ultimately hinges on process. If we can improve the workflow, we can improve the output and perceived ROI."
+  },
+  {
+    "id": 20,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Tim Van Damme",
+      "href": "/author/tim-van-damme"
+    },
+    "title": "Abstract, now with Dark Mode",
+    "desc": "Not a sight for sore eyes. We're rolling out a system-side Dark Mode for our MacOs and web apps."
+  },
+  {
+    "id": 21,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Andrew McCloud",
+      "href": "/author/andrew-mccloud"
+    },
+    "title": "Introducing downloadable Assets and new entreprise features",
+    "desc": "We're making big leaps to round out your design workflow"
+  },
+  {
+    "id": 22,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Alden Spence",
+      "href": "/author/alden-spence"
+    },
+    "title": "Video: Collaborating with engineers, using Inspect",
+    "desc": "A bi-directional workflow that takes designs into production, faster."
+  },
+  {
+    "id": 23,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Jordan Staniscia",
+      "href": "/author/jordan-staniscia"
+    },
+    "title": "Big Little: Faster Collection creation, quick Commits, and more",
+    "desc": "Giving you more Control over your work."
+  },
+  {
+    "id": 24,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Alden Spence",
+      "href": "/author/alden-spence"
+    },
+    "title": "Video :Building a home for your files in Abstract",
+    "desc": "Get organized and speed up your workflow."
+  },
+  {
+    "id": 25,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Alden Spence",
+      "href": "/author/alden-spence"
+    },
+    "title": "Structuring branches in Abstract",
+    "desc": "Branches are an essential piece of the design workflow and the cornerstone of version control."
+  },
+  {
+    "id": 26,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Alden Spence",
+      "href": "/author/alden-spence"
+    },
+    "title": "How to collaborate with non-designers using Abstract",
+    "desc": "Feedback is key to making better products, when it's given in the right place, at the right time."
+  },
+  {
+    "id": 27,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Alden Spence",
+      "href": "/author/alden-spence"
+    },
+    "title": "Telling the story of your work, using Abstract during design reviews",
+    "desc": "Manage the flow of feedback, enjoy better design reviews. "
+  },
+  {
+    "id": 28,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Payam Rajabi",
+      "href": "/author/payam-rajabi"
+    },
+    "title": "Bringing intentionally into design: Why you should commit early and often",
+    "desc": "'How often should I commit?' in Abstract Branches"
+  },
+  {
+    "id": 29,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Heather Philips",
+      "href": "/author/heather-philips"
+    },
+    "title": "Introducing Review Requests and Comment History",
+    "desc": "A scalable, lightweight workflow for collaborative design reviews. "
+  },
+  {
+    "id": 30,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Alden Spence",
+      "href": "/author/alden-spence"
+    },
+    "title": "How to organize Projects in Abstract",
+    "desc": "Common use cases for organizing projects in Abstract"
+  },
+  {
+    "id": 31,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Alden Spence",
+      "href": "/author/alden-spence"
+    },
+    "title": "The designer's guide to Sketch Libraries in Abstract",
+    "desc": "Best practices to help you use Sketch Libraries and Linked Librairies in Abstract"
+  },
+  {
+    "id": 32,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Alden Spence",
+      "href": "/author/alden-spence"
+    },
+    "title": "Making Sketch collaboration better with Abstract",
+    "desc": "Stop asking,'What's in this file? Why is it different than the current file? Where's the final version?'"
+  },
+  {
+    "id": 33,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Andrew McCloud",
+      "href": "/author/andrew-mccloud"
+    },
+    "title": "Introducing Inspect: Where the file is the design spec",
+    "desc": "No more exporting files, Inspect provides one place to access the information needed to implement any design with easy-to-access design specs!"
+  },
+  {
+    "id": 34,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Tim Van Damme",
+      "href": "/author/tim-van-damme"
+    },
+    "title": "Introducing comment replies and email notifications",
+    "desc": "Staying on top of conversations in Abstract just got a lot easier."
+  },
+  {
+    "id": 35,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Tim Van Damme",
+      "href": "/author/tim-van-damme"
+    },
+    "title": "Designs reviews using Abstract, now with Night Mode",
+    "desc": "Use collection allow you to organise, share, and present your design work"
+  },
+  {
+    "id": 36,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Heather Philips",
+      "href": "/author/heather-philips"
+    },
+    "title": "Abstract 0.70: full speed ahead!",
+    "desc": "Our biggest release since launch, bringing you a streamlined navigation, new project overview and more!"
+  },
+  {
+    "id": 37,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Tim Van Damme",
+      "href": "/author/tim-van-damme"
+    },
+    "title": "Compare Mode, open files from web & more",
+    "desc": "Visually compare changes between two files. Plus, access Sketch files directly from the web app."
+  },
+  {
+    "id": 38,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Tim Van Damme",
+      "href": "/author/tim-van-damme"
+    },
+    "title": "Sketch Libraries and Abstract: Linked Libraries",
+    "desc": "Centralized Sketch Symbol Librairies, available across all your projects inside Abstract"
+  },
+  {
+    "id": 39,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Tim Van Damme",
+      "href": "/author/tim-van-damme"
+    },
+    "title": "Sketch Libraries and Abstract: Per-project Libraries",
+    "desc": "Start building scalable Design Systems with Sketch Libraries and Abstract"
+  },
+  {
+    "id": 40,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "12 min",
+    "postedIn": {
+      "Category": "Product",
+      "href": "/category/product"
+    },
+    "author": {
+      "name": "Tim Van Damme",
+      "href": "/author/tim-van-damme"
+    },
+    "title": "Speed up design reviews and approvals with Collections",
+    "desc": "A better way to organize, share, and present your design with Abstract"
+  },
+  {
+    "id": 41,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "11 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "A guide to modern retros: how to host valuable project post-mortem",
+    "desc": "GitHub's Kyle Diagle says successful retros start wit trust"
+  },
+  {
+    "id": 42,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "7 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "Approaching the product design process through an engineering lens",
+    "desc": "Zipper's Duretti Hirpa says designers and engineers have more shared values than you may realize"
+  },
+  {
+    "id": 43,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "5 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "Making the most of stakeholder review meetings",
+    "desc": "Google's Meghan Schofield on honing your design communication skills"
+  },
+  {
+    "id": 44,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "5 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "Designers and product managers are better together",
+    "desc": "Digital Service Expert Ellen Butters shares how partnering with PMs can help designers more effectively influence the product raodmap"
+  },
+  {
+    "id": 45,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "6 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "Designing winning outcomes with Mia Blume",
+    "desc": "Believing in the power of design and what can happen when we get designers in executive roles"
+  },
+  {
+    "id": 46,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "7 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "Fonz Morris answers your user research FAQs",
+    "desc": "A Lead Product Designer at NetFlix on how to unearth the design insights you need"
+  },
+  {
+    "id": 47,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "0 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "Design your team like you would your product",
+    "desc": "Amex VP of Product Design and Research Evan English shares her approach to scaling design teams"
+  },
+  {
+    "id": 48,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "6 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "Netflix's Fonz Morris on the five golden rules of product iteration",
+    "desc": "Fine-tune your product at the earliest stages of the design lifecycle; not just at end"
+  },
+  {
+    "id": 49,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "5 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "When building products, trust is the key to better collaboration",
+    "desc": "Loom's Vp of design, Joshua Goldenberg, suggest finding your engineering soulmate and other tips for working as a unified team"
+  },
+  {
+    "id": 50,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "8 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "A step-by-step guide to designing your review process",
+    "desc": "Stripe's Head of Design, Katie Dill, on how to design your way to better data"
+  },
+  {
+    "id": 51,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "5 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "Designing the prototyping process",
+    "desc": "Webflow Design Director David Hoang on seeing failure as a learning opportunity"
+  },
+  {
+    "id": 52,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "5 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "Making time for divergent thinking creates conditions for innovation",
+    "desc": "Marc Hemeon of Kosas, Facebook, and Youtube on the necessity of exploration in the design process"
+  },
+  {
+    "id": 53,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "8 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "Building a better product brief",
+    "desc": "The best briefs are made collaboratively and hold space for exploration"
+  },
+  {
+    "id": 54,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "5 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "Sana Rao on research, risk, and designing the digital products of the future",
+    "desc": "Peanut's VP of Product Design encourages us to keep challenging our assumptions"
+  },
+  {
+    "id": 55,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "7 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "By Design: Interviews with leading design and product thinkers",
+    "desc": "Exploring every stage of product design with experts from Loom, Webflow, Stripe, AMEX and more"
+  },
+  {
+    "id": 56,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "5 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "Putting pen to paper is first step in the design process",
+    "desc": "Senior Product Designer at Discord Brittany Forks shares how her ideas take shape through the art of journaling"
+  },
+  {
+    "id": 57,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "3 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Sara Howshar",
+      "href": "/author/sara-howshar"
+    },
+    "title": "Same page: Exploring a design-first product process",
+    "desc": "An series of open conversations with all the folks out there building products"
+  },
+  {
+    "id": 58,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "10 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Diana Lightfoot",
+      "href": "/author/diana-lightfoot"
+    },
+    "title": "Aligning the Abstract brand with out mission",
+    "desc": "How and why we're refreshing the Abstract brand"
+  },
+  {
+    "id": 59,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Sarah Mcllwain",
+      "href": "/author/sarah-mcllwain"
+    },
+    "title": "Why you need design documentation",
+    "desc": "Give stakeholders the context they need to understand your decisions and focus on the work itself"
+  },
+  {
+    "id": 60,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "1 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Kelly Watkins",
+      "href": "/author/kelly-watkins"
+    },
+    "title": "An open letter to Design",
+    "desc": "Looking at the same thing does not translate to being on the same page"
+  },
+  {
+    "id": 61,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "6 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "Design teams are more complex than ever",
+    "desc": "What does that mean for design work?"
+  },
+  {
+    "id": 62,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "6 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "How to solve design's work around the work' problem",
+    "desc": "It's easy to lose sight of the bigger picture when design work becomes fragmented"
+  },
+  {
+    "id": 63,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "6 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "Measuring the impact of Design",
+    "desc": "Why is it to difficult to tie design to business outcomes ?"
+  },
+  {
+    "id": 64,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "6 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Vince Joy",
+      "href": "/author/vince-joy"
+    },
+    "title": "How to ask for -- and give -- design feedback",
+    "desc": "A more generative, inclusive, and useful feedback process"
+  },
+  {
+    "id": 65,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "8 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Diana Lightfoot",
+      "href": "/author/diana-lightfoot"
+    },
+    "title": "How we conduct design reviews at Abstract",
+    "desc": "Facilitating participation, engagement, and feedback in remote design reviews"
+  },
+  {
+    "id": 66,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "Cultivating community, context, and storytelling",
+    "desc": "News you can use from Design Twitter"
+  },
+  {
+    "id": 67,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "Cross-functional collaboration is here to stay",
+    "desc": "News you can use from Design Twitter"
+  },
+  {
+    "id": 68,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "7 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "How cognitive bias influences Design",
+    "desc": "David Dylan Thomas shares prosocial and inclusive ways to address bias"
+  },
+  {
+    "id": 69,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "What's behind design",
+    "desc": "News you can use form Design Twitter"
+  },
+  {
+    "id": 70,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "7 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "Reframing usability testing for a remote world",
+    "desc": "What we've learned about conducting usability studies as a remote team"
+  },
+  {
+    "id": 71,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "6 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "How ClearScore built DesignOps from the ground up",
+    "desc": "What started as a labor of love resulted in saving thousands of hours of design and development time"
+  },
+  {
+    "id": 72,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "When to grow your DesignOps team",
+    "desc": "A framework for leveling up DesignOps at your organization"
+  },
+  {
+    "id": 73,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "5 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "Whene are you ready for DesignOps?",
+    "desc": "Identifying common issues your design team may face"
+  },
+  {
+    "id": 74,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "8 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "Disney Streaming Service' Ariem Anthony on people and process",
+    "desc": "Why Disney Streaming Service senior design project manager geeks out on process"
+  },
+  {
+    "id": 75,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "Accessibility, responsibility, and ethics in design",
+    "desc": "News you can use from Design Twitter"
+  },
+  {
+    "id": 76,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "What is DesignOps?",
+    "desc": "Setting a design team up for success"
+  },
+  {
+    "id": 77,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "5 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "A crowd-sourced UX design book, born out of a pandemic",
+    "desc": "UX designer and design leader Tom Greever shares the inspiration behind his new book."
+  },
+  {
+    "id": 78,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "A design reckoning and shared responsibility",
+    "desc": "News you can use from Design Twitter"
+  },
+  {
+    "id": 79,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "7 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "What advice design leaders would give their younger selves",
+    "desc": "'Balance the immediate with the far off' and other great advice for design leadership"
+  },
+  {
+    "id": 80,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "Amplifying the Black tech community",
+    "desc": "News you can use from Design Twitter"
+  },
+  {
+    "id": 81,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "A new normal for design",
+    "desc": "News you can use from Design Twitter"
+  },
+  {
+    "id": 82,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "7 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Sarah Mcllwain",
+      "href": "/author/sarah-mcllwain"
+    },
+    "title": "How to run a remote design sprint",
+    "desc": "Geographic differences don't need to be an impediment to creativity an collaboration."
+  },
+  {
+    "id": 83,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Jordan Staniscia",
+      "href": "/author/jordan-staniscia"
+    },
+    "title": "Uncoverting the business behind the buttons",
+    "desc": "Bringing your customers and their thoughts to the table is a powerful way to shift the business."
+  },
+  {
+    "id": 84,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "7 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Mia Blume",
+      "href": "/author/mia-blume"
+    },
+    "title": "How to build and re-build trust in a remote environment",
+    "desc": "How cutiosity and compassion cultivates trust"
+  },
+  {
+    "id": 85,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Sarah Mcllwain",
+      "href": "/author/sarah-mcllwain"
+    },
+    "title": "Are you ready for a research Ops Function?",
+    "desc": "Like Design Ops, Research Ops is all about creating repeatable systems and processes to support design."
+  },
+  {
+    "id": 86,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "How to design a remote-friendly documentation strategy",
+    "desc": "For documentation to be useful and used, it's critical that everyone on the team commits to maintaining it."
+  },
+  {
+    "id": 87,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "The shift to remote, virtual events, and adaptability",
+    "desc": "News you can use from Design Twitter."
+  },
+  {
+    "id": 88,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "How to prove the value of Design to your CEO",
+    "desc": "Design leaders from Ellevest, Varo Money, Xbox, and more share where the design discipline stands in proving the value of design in organizations."
+  },
+  {
+    "id": 89,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "On design exercises, creativity vs. structure, and more",
+    "desc": "News you can use from Design Twitter."
+  },
+  {
+    "id": 90,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "6 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Amy Schroeder",
+      "href": "/author/amy-schroeder"
+    },
+    "title": "How to avoid 5 of the most common design system mistakes",
+    "desc": "Leaders from Pinterest, Microsoft, Alaska Airlines, Clearleft, and more lay their bestt advice on the table."
+  },
+  {
+    "id": 91,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "DesignOps roles on the rise & the latest product design trends",
+    "desc": "News you can use from Design Twitter."
+  },
+  {
+    "id": 92,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Sarah Mcllwain",
+      "href": "/author/sarah-mcllwain"
+    },
+    "title": "From boss to coach: how to build a winning design team",
+    "desc": "A strong design leader works side by side, not top-down, and pulls team players toward a deep belief in themselves."
+  },
+  {
+    "id": 93,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Scott Weliver",
+      "href": "/author/scott-weliver"
+    },
+    "title": "How to get your DesignOps team up and running",
+    "desc": "Even if you're a team of one, these essential principles will help you get to cruising altitude and bootstrap your way to automation."
+  },
+  {
+    "id": 94,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "8 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Amy Schroeder",
+      "href": "/author/amy-schroeder"
+    },
+    "title": "What is the future of product design in the 2020s?",
+    "desc": "Design leaders from Facebook, Intercom, Dropbox, Animodles, and more share predictions about the coming sea change that is procuct design."
+  },
+  {
+    "id": 95,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "13 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Amy Schroeder",
+      "href": "/author/amy-schroeder"
+    },
+    "title": "55 of the most actionable ways to scale design",
+    "desc": "So much incredible design advice, so little time to read it all. If you prefer bullet points to lenghty prose, you'll enjoy this comprehensive summary."
+  },
+  {
+    "id": 96,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Josh Taylor",
+      "href": "/author/josh-taylor"
+    },
+    "title": "How to understand your impact in the brave new world of product design",
+    "desc": "If you design products, you have more power and influence than you realize.This is a call for awareness and change in a time when Everything is Design."
+  },
+  {
+    "id": 97,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "8 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Scott Weliver",
+      "href": "/author/scott-weliver"
+    },
+    "title": "Generous design is the way forward: 3 keys to transparency",
+    "desc": "To build superior products at scale, combine a classic business toolset with a design-thinking mindset."
+  },
+  {
+    "id": 98,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "7 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Tim Van Damme",
+      "href": "/author/tim-van-damme"
+    },
+    "title": "Expect change in your design career. Choose growth",
+    "desc": "No one works in a future-proof field, designers included. But if you recognize that change is coming and help others along the way, you can future-proof yourself"
+  },
+  {
+    "id": 99,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "7 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Kevin Smith",
+      "href": "/author/kevin-smith"
+    },
+    "title": "5 ways to build a more impactful product design team",
+    "desc": "The future will be defined by those who bridge the gap between design and development. Here are actionable steps to get there without burning out."
+  },
+  {
+    "id": 100,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "7 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Amy Schroeder",
+      "href": "/author/amy-schroeder"
+    },
+    "title": "8 critical skills of effective design leaders",
+    "desc": "In an increasingly collaborative design world, hard and fast rules dont't necessarily apply. But traits like emotional inteligence, future-obsession, and ability to trust rise to the top."
+  },
+  {
+    "id": 101,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Andrea Burton",
+      "href": "/author/andrea-burton"
+    },
+    "title": "Teamwork makes the design work: Why your design system needs content strategy",
+    "desc": "In an inreasingly cross-disciplinary world, it's high time we gave content strategist a seat at the table, alongside designers and developers."
+  },
+  {
+    "id": 102,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "5 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Jordan Staniscia",
+      "href": "/author/jordan-staniscia"
+    },
+    "title": "Why a cookie-cutter design system won't work for your organization",
+    "desc": "Linzi Berry, Product Design Systems Manager at Lyft, shares the story and core principles of their design system"
+  },
+
+  {
+    "id": 103,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "7 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Sara Zhang",
+      "href": "/author/sara-zhang"
+    },
+    "title": "The accidental product designer: How I stumbled into my dream job",
+    "desc": "Thoughts on a winding career path and discovering a love of problem-solving"
+  },
+  {
+    "id": 104,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Jordan Staniscia",
+      "href": "/author/jordan-staniscia"
+    },
+    "title": "Build your design system with these 8 real-world lessons",
+    "desc": "From treating it like a product to defining principles and 'A.B.U' here are key things to remember along the way."
+  },
+  {
+    "id": 105,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Andrew McCloud",
+      "href": "/author/andrew-mccloud"
+    },
+    "title": "Here's what developers want designers to know about developer handoff",
+    "desc": "Creating a better process requires intentional collaboration. Here's how to think like a developer when you're designing"
+  },
+  {
+    "id": 106,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Amy Schroeder",
+      "href": "/author/amy-schroeder"
+    },
+    "title": "7 ways to lean into an open design process",
+    "desc": "From ditching silos and workarounds to embracing purple squirrels and remot work, here's how to navigate the changing world of modern design."
+  },
+  {
+    "id": 107,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "7 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Jordan Staniscia",
+      "href": "/author/jordan-staniscia"
+    },
+    "title": "Make the case: How to get buy-in for building a design system",
+    "desc": "How to start the conversation with stakeholders and get a design system off the ground."
+  },
+  {
+    "id": 108,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "Giving UX writing a seat at the design table",
+    "desc": "Effective UX writing can turn a good user experience into a great one."
+  },
+  {
+    "id": 109,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Heather Philips",
+      "href": "/author/heather-philips"
+    },
+    "title": "Stop dwelling on being design-led: Focus on the user",
+    "desc": "To build more powerful products, no one function should play a supporting role."
+  },
+  {
+    "id": 110,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Heather Philips",
+      "href": "/author/heather-philips"
+    },
+    "title": "This is what you need to level up as an individual contributor",
+    "desc": "How marrying design process and design instincts will set you apart."
+  },
+  {
+    "id": 111,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Tim Van Damme",
+      "href": "/author/tim-van-damme"
+    },
+    "title": "The end of the celebrity designer",
+    "desc": "A more open approach to design helps build better products and demystifies the process for the rest of the company."
+  },
+  {
+    "id": 112,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "6 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "Creating a new language for design and engineering",
+    "desc": "From blueprint to building, and the changing nature of developer handoff."
+  },
+  {
+    "id": 113,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Jonathan Snook",
+      "href": "/author/jonathan-snook"
+    },
+    "title": "Building the architecture behind the design",
+    "desc": "Jonathan Snook shares what it means to design in a multi-stack world."
+  },
+  {
+    "id": 114,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Heather Philips",
+      "href": "/author/heather-philips"
+    },
+    "title": "Embracing open design in 2019",
+    "desc": "Automation is kiling the tedium in design, but our jobs are about to get more exciting."
+  },
+  {
+    "id": 115,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "3 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Josh Brewer",
+      "href": "/author/josh-brewer"
+    },
+    "title": "Why design needs version control",
+    "desc": "Version control is communication, transparency, and consensus."
+  },
+  {
+    "id": 116,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "2 min",
+    "postedIn": {
+      "Category": "Inspiration",
+      "href": "/category/inspiration"
+    },
+    "author": {
+      "name": "Heather Philips",
+      "href": "/author/heather-philips"
+    },
+    "title": "Design systems & Abstract",
+    "desc": "How modern design teams are using Abstract as a centralized system of record."
+  },
+  {
+    "id": 117,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Inside Abstract",
+      "href": "/category/inside-abstract"
+    },
+    "author": {
+      "name": "Deana Tucker",
+      "href": "/author/deana-tucker"
+    },
+    "title": "The role of collaboration in a remote release",
+    "desc": "Engineering Manager Deana Tucker shares the unconventional start to her tech career and how it prepared her for her biggest challenge so far."
+  },
+  {
+    "id": 118,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Inside Abstract",
+      "href": "/category/inside-abstract"
+    },
+    "author": {
+      "name": "Vince Joy",
+      "href": "/author/vince-joy"
+    },
+    "title": "How we redesigned the Abstract blog with Abstract",
+    "desc": "Go behind the scenes with an Abstract brand designer to see how we collaborated on our blog design, across teams and timezones."
+  },
+  {
+    "id": 119,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Inside Abstract",
+      "href": "/category/inside-abstract"
+    },
+    "author": {
+      "name": "Josh Brewer",
+      "href": "/author/josh-brewer"
+    },
+    "title": "Reflecting on Abstract's first year",
+    "desc": "One year ago, we publicy launched the Abstract Beta. Here's where we've been and where we're headed."
+  },
+  {
+    "id": 120,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Inside Abstract",
+      "href": "/category/inside-abstract"
+    },
+    "author": {
+      "name": "Josh Brewer",
+      "href": "/author/josh-brewer"
+    },
+    "title": "Abstract: A home for modern design teams",
+    "desc": "Streamline your design workflow. Now open to the public."
+  },
+  {
+    "id": 121,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Inside Abstract",
+      "href": "/category/inside-abstract"
+    },
+    "author": {
+      "name": "Tim Van Damme",
+      "href": "/author/tim-van-damme"
+    },
+    "title": "A component-based workflow for Sketch",
+    "desc": "The way we design is changing, and so are our tools."
+  },
+  {
+    "id": 122,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Customers Stories",
+      "href": "/category/customers-stories"
+    },
+    "author": {
+      "name": "Alison Harshbarger",
+      "href": "/author/alison-harshbarger"
+    },
+    "title": "How MessageBird's design team used Abstract to make productivity soar",
+    "desc": "Streamlining process means more time for design."
+  },
+  {
+    "id": 123,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Customers Stories",
+      "href": "/category/customers-stories"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "How Abstract helped Banner Health navigate a future no one planned for",
+    "desc": "Tripling outputs while working remotely."
+  },
+  {
+    "id": 124,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Customers Stories",
+      "href": "/category/customers-stories"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "How Abstract helped Fifth Beat accelerate new project ramp times by 20%",
+    "desc": "Head of Design Francesco Vetica shares how Abstract helps the Fifth Beat team reduce costs, refine workflows, and mentor clients."
+  },
+  {
+    "id": 125,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Customers Stories",
+      "href": "/category/customers-stories"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "How DocuSign uses Abstract to build a culture of thoughful collaboratoin",
+    "desc": "A people-first approach helps the DocuSign team make design decisions together."
+  },
+  {
+    "id": 126,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Customers Stories",
+      "href": "/category/customers-stories"
+    },
+    "author": {
+      "name": "Amy Schroeder",
+      "href": "/author/amy-schroeder"
+    },
+    "title": "How Cisco built an entreprise global design system",
+    "desc": "From scrappy to scale: What started as a labor of love resulted in saving thousands of hours design and development time."
+  },
+  {
+    "id": 127,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Customers Stories",
+      "href": "/category/customers-stories"
+    },
+    "author": {
+      "name": "Amy Schroeder",
+      "href": "/author/amy-schroeder"
+    },
+    "title": "How Abstract helps Saleforce create Lightning Design System's stricking experience",
+    "desc": "Designers at the world's largest cloud CRM platform say they keep their cool thanks to 'trust, teamwork, and tools like Abstract.'"
+  },
+  {
+    "id": 128,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Customers Stories",
+      "href": "/category/customers-stories"
+    },
+    "author": {
+      "name": "Amy Schroeder",
+      "href": "/author/amy-schroeder"
+    },
+    "title": "How Yelp's design stepped out of the 'black box'",
+    "desc": "Abstract is an 'open kitchen' for the growing team that's hungry for transparency."
+  },
+  {
+    "id": 129,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Customers Stories",
+      "href": "/category/customers-stories"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "How Alison Shaw manages the Zendesk design system across global time zones",
+    "desc": "Abstract is the 'paper of decisions' that anyone, on any team, in any part of the world, can tap into at any time."
+  },
+  {
+    "id": 130,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Customers Stories",
+      "href": "/category/customers-stories"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "How a company founded in 1836 created a design system in Abstract",
+    "desc": "UX Design, Lead Eric Alberts shares how a design system enables more collaboration across Wolters Kluwer's global organization."
+  },
+  {
+    "id": 131,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Customers Stories",
+      "href": "/category/customers-stories"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "How content design is helping Inuit build regional customer experiences",
+    "desc": "Inuit content designer Simon Alovisi's team is crafting bespoke, ent-to-end experiences for the UK market."
+  },
+  {
+    "id": 132,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Customers Stories",
+      "href": "/category/customers-stories"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "How Abstract helps Instacart's design team scale and delight",
+    "desc": "How does the growing company stay focused on its mission to deliver groceries across North America? By using new tools and collaborative ways of working."
+  },
+  {
+    "id": 133,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Customers Stories",
+      "href": "/category/customers-stories"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "Democratizing the design process at Everlane",
+    "desc": "How the fashion e-trailer used Abstract to create 'radical transparency' for their entire design and development team."
+  },
+  {
+    "id": 134,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Customers Stories",
+      "href": "/category/customers-stories"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "How BIO overhauled a leading UK company's digital everything",
+    "desc": "The remote design team used Abstract to streamline file management without fear of losing iterations of their work."
+  },
+  {
+    "id": 135,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Customers Stories",
+      "href": "/category/customers-stories"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "Collaborative design in Fanduel's globally distributed team",
+    "desc": "How the fantasy sports tech company uses Abstract to manage a remote crew of designers and engineers."
+  },
+  {
+    "id": 136,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Customers Stories",
+      "href": "/category/customers-stories"
+    },
+    "author": {
+      "name": "Kasey Fleisher Hickey",
+      "href": "/author/kasey-fleisher-hickey"
+    },
+    "title": "How General Assembly design cutting-edge learning experiences",
+    "desc": "The pioneering education company talks about discovering Abstract during 'desperate times' while hunting for a Git-based design tool."
+  },
+  {
+    "id": 137,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Customers Stories",
+      "href": "/category/customers-stories"
+    },
+    "author": {
+      "name": "Tim Van Damme",
+      "href": "/author/tim-van-damme"
+    },
+    "title": "How Abstract Helped the Bluespark team increase productuvity by 30%",
+    "desc": "Improving design collaboration in a distributed team."
+  },
+  {
+    "id": 138,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Blog",
+      "href": "/blog/what-2019-taught-us-about-creating-a-culture-of-belonging"
+    },
+    "author": {
+      "name": "Edgardo Perez",
+      "href": "/author/edgardo-perez"
+    },
+    "title": "What 2019 taught us about creating a culture of belonging",
+    "desc": "One year ago, we publicly shared our philosophy on inclusion. Here's how we did in 2019 and what we learned along the way ."
+  },
+  {
+    "id": 139,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Blog",
+      "href": "/blog/Idon-t-have-to-choose-Challenging-the-tradeoff-mindset"
+    },
+    "author": {
+      "name": "Edgardo Perez",
+      "href": "/author/edgardo-perez"
+    },
+    "title": "I don't have to choose: Challenging the tradeoff mindset",
+    "desc": "A great career shouldn't come at the expense of your identity, but this is a tradeoff many of us have to make. This Latinx Heritage Mounth, we examine the role that remote work plays in preserving Latinx culture across the U.S."
+  },
+  {
+    "id": 140,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Blog",
+      "href": "/blog/lesley-alegria-on-connecting-people-storytelling-and-her-prince-royce-hype-song"
+    },
+    "author": {
+      "name": "Edgardo Perez",
+      "href": "/author/edgardo-perez"
+    },
+    "title": "Lesley Alegria on connecting people, storytelling, and her Prince Royce hype song",
+    "desc": "September marks the beginning of Latinx Heritage Month, We're honoring our teammates with a series of interviews to highlight their experiences. "
+  },
+  {
+    "id": 141,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Blog",
+      "href": "/blog/jose-garcia-Balius-on-video-games-overcoming-failure-and-a-self-taught-career-in-coding"
+    },
+    "author": {
+      "name": "Edgardo Perez",
+      "href": "/author/edgardo-perez"
+    },
+    "title": "Jose Garcia-Balius on video games, overcoming failure, and a self-taught career in coding",
+    "desc": "September marks the beginning of Latinx Heritage Month, We're honoring our teammates with a series of interviews to highlight their experiences. "
+  },
+  {
+    "id": 142,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Blog",
+      "href": "/blog/how-to-architect-a-career-transition-and-land-a-great-job-in-tech"
+    },
+    "author": {
+      "name": "Lesley Alegria",
+      "href": "/author/lesley-alegria"
+    },
+    "title": "How to architect a career transition and land a great job in tech",
+    "desc": "An Abstract tech recuiter shares 7 tired-and-true strategies that helped her navigate a competitive hov market while drawing energy and focus from her Latina identity. "
+  },
+  {
+    "id": 143,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Blog",
+      "href": "/blog/why-remote-work-is-inclusion-work"
+    },
+    "author": {
+      "name": "Kevin Smith",
+      "href": "/author/kevin-smith"
+    },
+    "title": "Why remote work is inclusive work",
+    "desc": "Our Chief Product Officer shares why building a distributed workforce can be the key to diversifying companies and supporting local economies. "
+  },
+  {
+    "id": 144,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Blog",
+      "href": "/blog/evan-vaughn-on-family-dodgeball-and-coming-out-more-than-once"
+    },
+    "author": {
+      "name": "Edgardo Perez",
+      "href": "/author/edgardo-perez"
+    },
+    "title": "Evan Vaughn on family, dodgeball, and coming out more than once",
+    "desc": "We're celebrating our teammates this month with a series of interviews."
+  },
+  {
+    "id": 145,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Blog",
+      "href": "/blog/andrea-burton-on-riot-games-and-the-future-of-video-games"
+    },
+    "author": {
+      "name": "Edgardo Perez",
+      "href": "/author/edgardo-perez"
+    },
+    "title": "Andrea Burton on Riot games and the future of video games",
+    "desc": "We're celebrating our teammates this month with a series of interviews."
+  },
+  {
+    "id": 146,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Blog",
+      "href": "/blog/building-a-distributed-team-in-a-distributed-environment"
+    },
+    "author": {
+      "name": "Edgardo Perez",
+      "href": "/author/edgardo-perez"
+    },
+    "title": "Building a distributed team in a distributed environment",
+    "desc": "And why this underrepresented talent market is so important, we're announcing to people company needs most."
+  },
+  {
+    "id": 147,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Blog",
+      "href": "/blog/history-of-someone-in-the-tech-industry"
+    },
+    "author": {
+      "name": "Edgardo Perez",
+      "href": "/author/edgardo-perez"
+    },
+    "title": "History of someone in the tech industry",
+    "desc": "We celebrate integration of someone in the tech industry."
+  },
+  {
+    "id": 148,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Blog",
+      "href": "/blog/becoming-an-engineering-manager"
+    },
+    "author": {
+      "name": "Rukimini Reddy",
+      "href": "/author/rukimini-reddy"
+    },
+    "title": "Becoming an engineering manager",
+    "desc": "Our VP of Engineering and Product on how to become an engineering manager."
+  },
+  {
+    "id": 149,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Blog",
+      "href": "/blog/employee-of-month-spotlight"
+    },
+    "author": {
+      "name": "Edgardo Perez",
+      "href": "/author/edgardo-perez"
+    },
+    "title": "Employee of the month spotlight",
+    "desc": "Lear more about our employee of the month."
+  },
+  {
+    "id": 150,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Blog",
+      "href": "/blog/employee-of-year-spotlight"
+    },
+    "author": {
+      "name": "Edgardo Perez",
+      "href": "/author/edgardo-perez"
+    },
+    "title": "Employee of the year spotlight",
+    "desc": "Lear more about our employee of the year."
+  },
+  {
+    "id": 151,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Blog",
+      "href": "/blog/employee-of-month-can-help-you-to-improve-your-skills"
+    },
+    "author": {
+      "name": "Edgardo Perez",
+      "href": "/author/edgardo-perez"
+    },
+    "title": "Employee of the month can help you to improve your skills",
+    "desc": "Lear more about our employee of the month, who can help you to improve your skills."
+  },
+  {
+    "id": 152,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Blog",
+      "href": "/blog/something-about-someone"
+    },
+    "author": {
+      "name": "Edgardo Perez",
+      "href": "/author/edgardo-perez"
+    },
+    "title": "Something about someOne",
+    "desc": "Learn something about someone."
+  },
+  {
+    "id": 153,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Blog",
+      "href": "/blog/when-it-comes-to-inclusion-good-intentions-ara-not-enough"
+    },
+    "author": {
+      "name": "Jabu Dayton",
+      "href": "/author/jabu-dayton"
+    },
+    "title": "When it comes to inclusion, good intentions are not enough",
+    "desc": "Why we measure inclusion as part of our company performance."
+  },
+  {
+    "id": 154,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Blog",
+      "href": "/blog/black-history-month-employee"
+    },
+    "author": {
+      "name": "Edgardo Perez",
+      "href": "/author/edgardo-perez"
+    },
+    "title": "Black History Month employee",
+    "desc": "Lear more about our employee of the month."
+  },
+  {
+    "id": 155,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Blog",
+      "href": "/blog/employee-of-month-andrew"
+    },
+    "author": {
+      "name": "Edgardo Perez",
+      "href": "/author/edgardo-perez"
+    },
+    "title": "Employee of the month Andrew",
+    "desc": "Lear more about our employee of the month Andrew."
+  },
+  {
+    "id": 156,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Blog",
+      "href": "/blog/employee-of-month-sommer"
+    },
+    "author": {
+      "name": "Edgardo Perez",
+      "href": "/author/edgardo-perez"
+    },
+    "title": "Employee of the month Sommer",
+    "desc": "Lear more about our employee of the month Sommer."
+  },
+  {
+    "id": 157,
+    "image": "/blogAssets/blogasset.jpg",
+    "timeToRead": "4 min",
+    "postedIn": {
+      "Category": "Blog",
+      "href": "/blog/inclusion-is-a-choice"
+    },
+    "author": {
+      "name": "Josh Brewer",
+      "href": "/author/josh-brewer"
+    },
+    "title": "Inclusion is a choice",
+    "desc": "How to build is just as important as what you're building."
+  }
+]}
+

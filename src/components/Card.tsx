@@ -1,7 +1,8 @@
+"use client"
 import Image from 'next/image';
 import Link from 'next/link';
+import { useRouter } from 'next/navigation';
 import React from 'react'
-
 
 interface ILink {
   label: string;
@@ -19,9 +20,10 @@ const Card = ({
   CardLink: ILink;
 }) => {
         const { label, href } = CardLink;
+        const router = useRouter();
 
   return (
-    <div className="  border border-black mx-4 cursor-pointer max-w-[350px]   ">
+    <div onClick={() => router.push(href)} className="border border-black mx-4 cursor-pointer max-w-[350px]   ">
       {/* Container Img */}
       <div>
         <Image

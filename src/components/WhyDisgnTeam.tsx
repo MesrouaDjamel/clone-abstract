@@ -14,7 +14,7 @@ const WhyDisgnTeam = ({title,desc}:{
 
       <div className=" grid grid-cols-1 justify-items-center  gap-6 md:grid-cols-3 md:gap-0 lg:mx-28">
         <Card
-          image="/CiscoPic.png"
+          image="/SaleForcePic.png"
           CardTitle="Design system management"
           CardDesc="How Cisco built an entreprise global design system"
           CardLink={{ label: "Read Cisco's Story", href: "/" }}
